@@ -1,0 +1,23 @@
+{
+  "name": "rakejs",
+  "version": "1.0.0",
+  "description": "RAKE implementation in JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rake"
+  ],
+  "author": "MishMick",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-polyfill": "6.23.0",
+    "babel-preset-es2015": "6.22.0",
+    "eslint": "4.4.0",
+    "eslint-config-airbnb-base": "11.3.1",
+    "eslint-plugin-import": "2.7.0",
+    "jest": "18.1.0"
+  }
+}
